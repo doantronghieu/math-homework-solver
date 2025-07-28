@@ -123,3 +123,8 @@ x86/
 *.[Cc]ache
 # but keep track of directories ending in .cache
 !*.[Cc]ache/
+
+**/secrets
+!**/secrets/SECRETS
+**/build
+**/.env
